@@ -15,8 +15,30 @@
         </header>
 
         <section class="form-group">
-            <div class="input-field"></div>
+            <div class="input-field">
+                <label for="coeff-a">Coeficiente (a)</label>
+                <input type="number" id="coeff-a" placeholder="EX: 1" step="any">
+            </div>
+
+            <div class="input-field">
+                <label for="coeff-b">Coeficiente (b)</label>
+                <input type="number" id="coeff-b" placeholder="EX: 5" step="any">
+            </div>
+            
+            <div class="input-field">
+                <label for="coeff-c">Coeficiente (c)</label>
+                <input type="number" id="coeff-c" placeholder="EX: 8" step="any">
+            </div>
+            
+            <div class="actions">
+                <button id="btn-calcular" class="btn-primary">Calcular</button>
+                <button id="btn-limpar" class="btn-secondary">Limpar</button>
+            </div>
         </section>
+
+        <footer id="display-resultado" class="hidden"></footer>
     </main>
+
+    <script src="script.js"></script>
 </body>
 </html>
