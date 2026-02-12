@@ -14,9 +14,10 @@ function calcularBhaskara (a, b, c){
         tipo: 'real',
         delta,
         x1: parseFloat(x1.toFixed(2)),
-        x2: parseFloat(x1.toFixed(2))
+        x2: parseFloat(x2.toFixed(2))
     }
 }
+
 // manipulacao da interface
     // pesca dos elementos do html
 const btnCalcular = document.getElementById('btn-calcular')
@@ -50,7 +51,7 @@ btnCalcular.addEventListener('click', () =>{
                 : `x1 = ${resultado.x1} <br> x2 = ${resultado.x2}`;
         }
     }catch (error){
-            display.innerText = error.mensagem
+            display.innerText = error.message
             display.classList.add('error')}
 })
 
