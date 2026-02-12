@@ -1,7 +1,7 @@
 :root {
     --primary-color: #2563eb;
     --primary-hover: #1d4ed8;
-    --bg-color: #f8fafc;
+    --bg-color: #83afdc;
     --card-bg: #ffffff;
     --text-color: #1e293b;
     --error-color: #ef4444;
@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: var(--bg-color);
     color: var(--text-color);
     display: flex;
@@ -17,7 +17,7 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-}
+}   
 
 .container {
     background: var(--card-bg);
