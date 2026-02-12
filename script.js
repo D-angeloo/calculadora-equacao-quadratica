@@ -60,3 +60,5 @@ btnLimpar.addEventListener("click", () =>{
     document.querySelectorAll('input').forEach(input => input.value = '')
     display.classList.add('hidden')
 })
+
+// teste de commit
