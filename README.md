@@ -11,11 +11,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 
-## 🚀 Sobre a Revisão
+## 🚀 Sobre o Projeto
 
-Este projeto faz parte da minha iniciativa de **manutenção e evolução de portfólio**. Revisitar este código me permitiu aplicar conceitos de JavaScript moderno em uma ferramenta que resolve equações de segundo grau de forma instantânea e segura.
+Este projeto foi desenvolvido como parte da minha nova etapa de estudos e construção de portfólio. A ideia foi criar uma ferramenta que resolve equações de segundo grau de forma instantânea, segura e com uma base técnica sólida desde o primeiro commit.
 
-O foco principal foi a **separação de responsabilidades**: a lógica matemática agora é independente da manipulação da interface (DOM), facilitando futuras manutenções e garantindo um código muito mais limpo.
+O foco principal foi a **separação de responsabilidades**: a lógica matemática foi construída de forma independente da manipulação da interface (DOM). Essa abordagem garante um código muito mais limpo, modular e preparado para futuras expansões, refletindo meu compromisso com a escrita de um código organizado e de fácil manutenção.
 
 ---
 
