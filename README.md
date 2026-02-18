@@ -52,5 +52,5 @@ Basta acessar o link do projeto hospedado no GitHub Pages:
 
 ---
 <p align="center">
-💡 <i>Feito com dedicação por Davi Angelo</i>
+💡 <i>Feito com dedicação por Davi Angelo :)</i>
 </p>
